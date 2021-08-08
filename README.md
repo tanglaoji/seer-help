@@ -14,14 +14,13 @@
   注意：因为使用到 CDN 和 UNPKG ，所以需要进行联网才能正常使用
 </p>
 
-<details open="open">
-  <h2>目录</h2>
-  <ol>
-    <li><a href="#preface">前言</a></li>
-    <li><a href="#frame">框架</a></li>
-    <li><a href="#usage">用法</a></li>
-  </ol>
-</details>
+
+<h2>目录</h2>
+<ol>
+<li><a href="#preface">前言</a></li>
+<li><a href="#frame">框架</a></li>
+<li><a href="#usage">用法</a></li>
+</ol>
 <br />
 
 <h2 id="preface">前言</h2>
