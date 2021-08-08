@@ -8,7 +8,7 @@
     <img src="readme-imgs/toji.png" alt="Logo" width="80" height="80">
   </a>
 </p>
-<h3 align="center">赛尔不求人(SeerHelp) 是一款以赛尔号手游数据为基础的综合型工具
+<h3 align="center">赛尔不求人(SeerHelp) 是一款以赛尔号手游数据为基础的综合型工具</h3>
 
 <p align="center">
   注意：因为使用到 CDN 和 UNPKG ，所以需要进行联网才能正常使用
